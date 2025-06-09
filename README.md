@@ -1,4 +1,4 @@
-<b># 🏦 iBanking System – Java Swing & MySQL</ub<br><br>
+<b># 🏦 iBanking System – Java Swing & MySQL</b><br><br>
 
 A desktop-based banking system developed using **Java Swing** for the GUI and **MySQL** as the backend database. This application allows users to securely create accounts, manage funds, and perform essential banking operations in a user-friendly interface.
 
