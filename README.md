@@ -25,4 +25,4 @@ A desktop-based banking system developed using **Java Swing** for the GUI and **
 
 1. **Clone the repository**
    ```bash<br>
-   git clone https://github.com/Pradip-Garai/iBanking-System.git
+   git clone https://github.com/Pradip-Garai/Banking-System.git
